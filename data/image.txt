@@ -1,0 +1,16 @@
+../../../data/NG/img00000659.jpg
+../../../data/OK/img00000458.jpg
+../../../data/NG/img00000454.jpg
+../../../data/OK/img00000013.jpg
+../../../data/OK/img00000131.jpg
+../../../data/NG/img00000898.jpg
+../../../data/OK/img00000773.jpg
+../../../data/NG/img00000263.jpg
+../../../data/OK/img00000101.jpg
+../../../data/NG/img00000988.jpg
+../../../data/OK/img00000685.jpg
+../../../data/NG/img00000419.jpg
+../../../data/NG/img00000509.jpg
+../../../data/OK/img00000670.jpg
+../../../data/NG/img00000602.jpg
+../../../data/NG/img00000844.jpg
